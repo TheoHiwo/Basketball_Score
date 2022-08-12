@@ -17,6 +17,9 @@ function add(team,inc) {
 }
 
 function reset() {
+    countScoreHome = 0
+    countScoreGuest = 0
     scoreHome.textContent = 0
     scoreGuest.textContent = 0
+    
 }
