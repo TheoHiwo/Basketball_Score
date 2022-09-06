@@ -4,12 +4,12 @@
 }
 
 body {
-    background: #1B244A;
+    background: #ff0015;
     
 }
 
 .container>div>h3 {
-    color: white;
+    color: rgb(170, 2, 2);
     margin: 0px;
 }
 
